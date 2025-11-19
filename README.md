@@ -18,12 +18,18 @@
 ---
 
 ### 🧑‍💻 About me
-I am a beginner Backend developer whose story in IT began in childhood, when I created servers for Minecraft. Since then, my interest in development has only increased, and I decided to focus on Backend development, which really inspires me. Now I am actively working on new projects, deepening my knowledge and improving my skills. 
+Full-Stack Developer (Node.js + TypeScript · React).
+I create clear and thoughtful web applications, from the server logic to the interface.
 
-- 👨‍🎓 Independently mastered the basics of working with databases (MySQL, MongoDB).
-- 🖥️ Developed several pet projects, including telegram bots and API on Node.js.
-- 🌱 I am constantly studying new technologies and approaches to development.
-- 💡 I am working on my own project, where I am implementing REST API and integration with external services.
+### 🧑‍💻 I work with
+- 👨‍🎓 Backend: Node.js, TypeScript, Fastify, PostgreSQL
+- 🖥️ Frontend: React, Tailwind
+- 🌱 Infrastructure: Docker, CI/CD, REST API, integration
+
+Focus: clean architecture, security, performance.
+
+I make pet projects, admin panels, API services, and small full-stack products.
+It is focused on growth and solving real problems.
 
 ---
 
